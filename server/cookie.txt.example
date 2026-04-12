@@ -1,0 +1,4 @@
+Rename this file to cookie.txt and paste your browser Cookie string for https://gemini.google.com on ONE line (DevTools → Network → any request to gemini → Request Headers → Cookie).
+
+Example shape (values are fake):
+__Secure-1PSID=...; __Secure-1PSIDTS=...; NID=...

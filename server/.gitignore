@@ -1,0 +1,5 @@
+cookie.txt
+.gemini_cookie
+.venv/
+__pycache__/
+*.pyc
