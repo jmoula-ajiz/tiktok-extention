@@ -1,0 +1,157 @@
+GraphVM Commercial Source License
+Version 1.0, effective 2026-06-01
+
+Copyright (c) 2026 Teamboost AI. All rights reserved.
+
+IMPORTANT: This is a proprietary license, not open source. Reading or
+cloning this repository does not grant you any right to use, copy, modify,
+or distribute the Software. Obtain a written commercial license from
+Teamboost AI before any use.
+
+Have this document reviewed by qualified legal counsel before relying on it.
+
+
+1. Definitions
+
+   "Software" means the source code, object code, documentation, data files,
+   configuration, and all related materials in this repository and any
+   official releases or forks operated by Teamboost AI.
+
+   "Licensor" means Teamboost AI and its affiliates.
+
+   "Licensee" means a person or legal entity that has entered into a valid,
+   written commercial license agreement with Licensor for the Software.
+
+   "Internal Use" means use by Licensee's employees and contractors solely
+   for Licensee's own products or services, not for the benefit of third
+   parties except as permitted in the commercial agreement.
+
+   "Distribution" means providing access to the Software or Derivative Works
+   to any third party, including SaaS, hosted services, on-premises delivery,
+   sale, sublicense, or public disclosure of source code.
+
+   "Derivative Works" means any work based on or incorporating the Software,
+   including modifications, translations, adaptations, merged works, or works
+   that link to or combine with the Software such that the Software or any
+   portion of it is required for the work to function.
+
+
+2. Grant of rights (commercial license only)
+
+   Except as expressly set forth in a signed commercial license agreement
+   with Licensor, no license is granted.
+
+   Subject to that agreement and this file, Licensor grants Licensee a
+   non-exclusive, non-transferable (except as allowed in the agreement)
+   license to use and modify the Software for Internal Use and for
+   Distribution only to the extent explicitly authorized in writing.
+
+
+3. Restrictions (all parties without a commercial license)
+
+   Without a valid commercial license, you may not:
+
+   a) use the Software for any purpose, including evaluation beyond
+      inspection of publicly visible repository metadata;
+
+   b) copy, reproduce, or mirror the Software except for transient caching
+      by a Git hosting provider;
+
+   c) modify, adapt, translate, or create Derivative Works;
+
+   d) distribute, publish, sublicense, sell, rent, lease, or host the
+      Software or Derivative Works;
+
+   e) reverse engineer, decompile, or disassemble the Software except where
+      such restriction is prohibited by applicable law;
+
+   f) remove or alter copyright, license, or attribution notices.
+
+
+4. Copyleft obligations (for licensed Licensees)
+
+   This section applies to every Licensee granted rights under Section 2.
+   It implements a strong copyleft: the Software and Derivative Works stay
+   under these terms.
+
+   4.1 Same license. Any Derivative Work that Licensee Distributes must be
+       licensed under this Commercial Source License (or a successor version
+       published by Licensor) and must include this entire license text.
+
+   4.2 Source availability. For any Distribution of the Software or
+       Derivative Works, Licensee must make corresponding source code
+       available to recipients under this license, in a manner no more
+       restrictive than the access granted to the executable or hosted
+       service.
+
+   4.3 Network use (SaaS copyleft). If Licensee offers the Software or
+       Derivative Works as a network service (including multi-tenant SaaS,
+       API, or managed hosting) to third parties, Licensee must offer those
+       third parties the right to receive the complete corresponding source
+       under this license upon written request, unless the commercial
+       agreement explicitly carves out a different network-use term in writing.
+
+   4.4 No proprietary encumbrance. Licensee may not combine the Software
+       or Derivative Works with code or terms that would prevent compliance
+       with Sections 4.1–4.3.
+
+   4.5 Contributions back. Unless the commercial agreement states otherwise,
+       Licensee grants Licensor a perpetual, worldwide, royalty-free license
+       to use, reproduce, modify, and sublicense any modifications Licensee
+       makes to the Software, for Licensor's products and services.
+
+
+5. Ownership
+
+   Licensor retains all right, title, and interest in the Software,
+   including all intellectual property rights. No trademark rights are
+   granted.
+
+
+6. Confidentiality
+
+   Unless Licensor designates portions as public, the Software is
+   confidential. Licensee must protect it using at least the same care as
+   for its own confidential information.
+
+
+7. Term and termination
+
+   This license is effective until terminated. It terminates automatically
+   if Licensee breaches any term and fails to cure within thirty (30) days
+   of written notice. Upon termination, Licensee must cease use and destroy
+   all copies. Sections 4–11 survive termination.
+
+
+8. Disclaimer of warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+
+9. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR
+   ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+   OR ANY LOSS OF PROFITS, DATA, OR GOODWILL, ARISING FROM THE SOFTWARE OR
+   THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY.
+
+
+10. Export and compliance
+
+    Licensee is responsible for compliance with applicable export control,
+    sanctions, and privacy laws.
+
+
+11. Governing law
+
+    This license is governed by the laws specified in Licensee's commercial
+    agreement with Licensor, or if none, the laws of the State of Delaware,
+    USA, excluding conflict-of-law rules.
+
+
+12. Contact
+
+    Commercial licensing: licensing@teamboost.ai
+    (Replace with your official licensing contact before distribution.)
